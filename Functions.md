@@ -4,12 +4,10 @@ Functions are reusable blocks of code that perform a specific task. They can tak
 
 
 ## What problem does it solves 
-⚫️ Easier debugging and Testing
-<br>
-⚫️ Code repetition
-<br>
-⚫️ Maintainability 
-
+    • Easier debugging and Testing
+    • Code repetition
+    • Maintainability 
+    
 ## Example :-
 
 ```python
