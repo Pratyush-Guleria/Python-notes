@@ -34,7 +34,7 @@ def Entry(age):
 
     else:
         return "You can enter"
-user_age = int(input("Enter your age 😈:"))
+user_age = int(input("Enter your age :"))
 message = Entry(user_age)
 print(message)
 ``` 
