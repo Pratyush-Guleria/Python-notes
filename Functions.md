@@ -12,7 +12,7 @@ Functions are reusable blocks of code that perform a specific task. They can tak
 
 ## Example :-
 
-```bash 
+```python
 def abc():
     print("Hello Bro")
 abc()
@@ -23,7 +23,7 @@ abc()
 
 ## Example :-
 
-```bash
+```python
 def Entry(age):    
         if age <= 0:
         return "Invalid age"
