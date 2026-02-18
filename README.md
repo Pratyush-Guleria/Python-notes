@@ -3,7 +3,7 @@ Here, I am gonna share my Python notes.
 
 # Python notes
 
-Personal learning notes for Python.
+My Personal learning notes for Python.
 
 # Note
 These are my personal learning notes written in simple language.
